@@ -68,7 +68,7 @@ function App() {
             <div className="relative hidden md:block animate-float">
               <div className="absolute -inset-4 bg-amber-600/20 rounded-full blur-3xl"></div>
               <img 
-                src="src/images/adna.png"
+                src="/images/adna.png"
                 alt="Dra. Adna Moreira Boaventura"
                 className="w-full h-full rounded-2xl shadow-2xl relative z-10 border-4 border-white/10 object-cover"
               />
@@ -111,7 +111,7 @@ function App() {
             <div className="relative">
               <div className="absolute -inset-4 bg-amber-600/20 rounded-full blur-3xl"></div>
               <img 
-                src="src/images/adnafoto.png"
+                src="/images/adnafoto.png"
                 alt="Dra. Adna Moreira Boaventura" 
                 className={`w-full h-full rounded-2xl shadow-2xl relative z-10 border-4 border-white/10 hover:scale-[1.02] transition-transform duration-500 object-cover animate-on-scroll ${
                   aboutSection.isIntersecting ? 'animate-slide-in-left' : ''
