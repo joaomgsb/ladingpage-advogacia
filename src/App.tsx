@@ -332,7 +332,7 @@ function App() {
                 <div className="space-y-6">
                   {[
                     {
-                      title: 'Assessora do Juiz de Direito e Diretor do Foro Eleitoral',
+                      title: 'Assessoramento aos Juízes de Direito Cível e Eleitoral',
                       institution: 'Tribunal de Justiça de Minas Gerais - Comarca de Betim',
                       period: '2009 - Atual',
                       icon: Scale,
