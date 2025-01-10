@@ -335,7 +335,6 @@ function App() {
                       title: 'Assessora do Juiz de Direito e Diretor do Foro Eleitoral',
                       institution: 'Tribunal de Justiça de Minas Gerais - Comarca de Betim',
                       period: '2009 - Atual',
-                      description: 'Assessoramento aos Drs. Marcelo da Cruz Trigueiro e Lauro Sérgio Leal',
                       icon: Scale,
                     },
                     {
