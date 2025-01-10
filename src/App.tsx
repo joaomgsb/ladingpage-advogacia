@@ -625,7 +625,7 @@ function App() {
           </div>
           <div className="border-t border-[#222] pt-8 text-center">
             <p> 2024 Dra. Adna Moreira Boaventura - Todos os direitos reservados</p>
-            <p className="text-sm mt-2 text-gray-400">OAB/MG (número da OAB)</p>
+            <p className="text-sm mt-2 text-gray-400">OAB/MG (218696)</p>
           </div>
         </div>
       </footer>
