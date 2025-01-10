@@ -65,7 +65,7 @@ function App() {
                 </a>
               </div>
             </div>
-            <div className="relative hidden md:block animate-float">
+            <div className="relative md:block animate-float mt-8 md:mt-0">
               <div className="absolute -inset-4 bg-amber-600/20 rounded-full blur-3xl"></div>
               <img 
                 src="/images/adna.png"
@@ -134,17 +134,17 @@ function App() {
                   Como Assessora do Juiz de Direito e do Foro Eleitoral da Comarca de Betim, desenvolvi uma visão única do sistema jurídico, que me permite oferecer soluções estratégicas e eficazes. Minha formação acadêmica extensa, incluindo múltiplas pós-graduações, reflete meu compromisso com a excelência e a atualização constante.
                 </p>
               </div>
-              <div className="flex flex-wrap gap-4">
-                <div className="bg-[#111]/80 backdrop-blur-lg border border-[#333] rounded-xl p-4 flex items-center gap-3">
-                  <Scale className="w-5 h-5 text-[#D4AF37]" />
-                  <span className="text-white">Comprometimento</span>
+              <div className="flex flex-col md:flex-row gap-4 mt-16 pt-8">
+                <div className="bg-[#111]/80 backdrop-blur-lg border border-[#333] rounded-xl p-4 flex items-center gap-3 w-48">
+                  <Scale className="w-5 h-5 text-[#D4AF37] shrink-0" />
+                  <span className="text-white">Compromisso</span>
                 </div>
-                <div className="bg-[#111]/80 backdrop-blur-lg border border-[#333] rounded-xl p-4 flex items-center gap-3">
-                  <Trophy className="w-5 h-5 text-[#D4AF37]" />
+                <div className="bg-[#111]/80 backdrop-blur-lg border border-[#333] rounded-xl p-4 flex items-center gap-3 w-48">
+                  <Trophy className="w-5 h-5 text-[#D4AF37] shrink-0" />
                   <span className="text-white">Excelência</span>
                 </div>
-                <div className="bg-[#111]/80 backdrop-blur-lg border border-[#333] rounded-xl p-4 flex items-center gap-3">
-                  <Star className="w-5 h-5 text-[#D4AF37]" />
+                <div className="bg-[#111]/80 backdrop-blur-lg border border-[#333] rounded-xl p-4 flex items-center gap-3 w-48">
+                  <Star className="w-5 h-5 text-[#D4AF37] shrink-0" />
                   <span className="text-white">Resultados</span>
                 </div>
               </div>
